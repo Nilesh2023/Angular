@@ -4,13 +4,13 @@ Welcome to Angular Harmony, where code meets creativity! 🌈
 
 ## 🌟 About Me
 
-I'm a passionate Frontend and Angular developer with 4 years of experience, dancing between curly braces and crafting pixel-perfect user interfaces.
+Hey there! I'm [Your Name], a passionate Frontend and Angular developer with 4 years of experience, dancing between curly braces and crafting pixel-perfect user interfaces.
 
 > "Angular is not just a framework; it's a symphony of code and creativity, and I'm the conductor." - *Angular Maestro*
 
 ## 🚀 Key Skills
 
-- **Angular Wizardry**: Crafting magic with Angular for 1.5 glorious years.
+- **Angular Wizardry**: Crafting magic with Angular for 4 glorious years.
 
 - **TypeScript Sorcery**: Turning TypeScript into spells that make code enchanting.
 
@@ -22,11 +22,11 @@ I'm a passionate Frontend and Angular developer with 4 years of experience, danc
 
 ## 🎥 Project Showcase
 
-![Project Demo 1]([https://media.giphy.com/media/l2Je3ZuIlTqndvBzS/giphy.gif](https://developer.okta.com/assets-jekyll/blog/angular-dynamic-components/overview-477259d578b57f5a793eac452df63b0c43614bf224ccd155b56dae4e4ea4706f.gif))
+![Project Demo 1](https://media.giphy.com/media/l2Je3ZuIlTqndvBzS/giphy.gif)
 
 > "An Angular project is like a blockbuster movie. It has a plot (features), actors (components), and a director (developer) orchestrating it all." - *Code Cinematographer*
 
-![Project Demo 2]([https://media.giphy.com/media/3o6Mba2TBHiQ5GBWUU/giphy.gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-angular/material-dashboard-angular.gif))
+![Project Demo 2](https://media.giphy.com/media/3o6Mba2TBHiQ5GBWUU/giphy.gif)
 
 > "Coding is like art, and Angular is my palette. I paint with components, style with CSS, and bring it to life with TypeScript." - *Code Artist*
 
@@ -63,7 +63,8 @@ Feel the rhythm? Let's code together! Follow these steps:
 
 Connect with me in this vast universe:
 
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nilesh-pandey-293429211/))
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
 
 ## 🚀 Happy Coding!
 
