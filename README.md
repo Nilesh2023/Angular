@@ -4,7 +4,7 @@ Welcome to Angular Harmony, where code meets creativity! 🌈
 
 ## 🌟 About Me
 
-Hey there! I'm [Your Name], a passionate Frontend and Angular developer with 4 years of experience, dancing between curly braces and crafting pixel-perfect user interfaces.
+Hey there! I'm Nilesh Pandey, a passionate Frontend and Angular developer with 1.5 years of experience, dancing between curly braces and crafting pixel-perfect user interfaces.
 
 > "Angular is not just a framework; it's a symphony of code and creativity, and I'm the conductor." - *Angular Maestro*
 
@@ -63,8 +63,7 @@ Feel the rhythm? Let's code together! Follow these steps:
 
 Connect with me in this vast universe:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- **LinkedIn**:https://www.linkedin.com/in/nilesh-pandey-293429211/ )
 
 ## 🚀 Happy Coding!
 
